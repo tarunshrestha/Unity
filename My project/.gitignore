@@ -1,0 +1,12 @@
+.vs
+Builds
+Library
+Logs
+obj
+Packages
+ProjectSettings
+UserSettings
+.vsconfig
+AR 2.sln
+Assembly-CSharp-csproj
+Temp
